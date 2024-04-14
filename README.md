@@ -47,4 +47,6 @@ This Python project aims to find similarity between various formats of documents
 
 Example usage:
 ```bash
-multiple text file.py PDF file code.pdf 
+multiple text file.py
+PDF file code.pdf 
+
