@@ -49,4 +49,7 @@ Example usage:
 ```bash
 multiple text file.py
 PDF file code.pdf 
+```
 
+# Team Member
+- [Abhinav Kumar](https://github.com/Abhinav7982)
